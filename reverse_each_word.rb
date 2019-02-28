@@ -6,4 +6,4 @@ def reverse_each_word(sentence)
   sentence_array.join(" ")
 end
 
-reverse_each_word("Well hello there!")
+puts reverse_each_word("Well hello there!")
