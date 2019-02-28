@@ -5,3 +5,5 @@ def reverse_each_word(sentence)
   end
   sentence_array.join(" ")
 end
+
+reverse_each_word("Well hello there!")
